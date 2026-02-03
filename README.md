@@ -25,7 +25,7 @@ herramientas y tecnologias:
   funcionamiento de la red interna.
 
 - **Lenguajes de scripting**:
-  - **Bash** – Script de diagnostico para sistemas Linux
+  -  **Bash** – Script de diagnostico para sistemas Linux
   - **PowerShell** – Script de diagnostico para sistemas Windows
 
 - **Control de versiones**: Git y GitHub, utilizados para el seguimiento
@@ -43,7 +43,7 @@ dos adaptadores de red por maquina virtual:
 Esta separacion permite simular un escenario real de red sin exponer los
 servicios internos al exterior.
 
-## Nodos
+## Nodos del Laboratorio
 
 - **Srv-Linux-Sistemas**  
   Servidor Linux sin entorno grafico, optimizado para bajo consumo de
@@ -79,6 +79,10 @@ muestran en consola:
 - Espacio disponible en disco
 
 Los scripts se encuentran organizados en la carpeta `/scripts`.
+
+## Scripts EXTRAS
+
+Para poder realizar la practica se necesito de scripts extras para configuraciones o en su defecto cambiar las ips de la interfaz de red ens37 para Linux (Server y cliente) y la interfaz de red con Index #7 en Windows Server
 
 ## Evidencias
 
