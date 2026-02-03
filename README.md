@@ -25,8 +25,8 @@ herramientas y tecnologias:
   funcionamiento de la red interna.
 
 - **Lenguajes de scripting**:
-  - 🐚 **Bash** – Script de diagnostico para sistemas Linux
-  - 🟦 **PowerShell** – Script de diagnostico para sistemas Windows
+  - **Bash** – Script de diagnostico para sistemas Linux
+  - **PowerShell** – Script de diagnostico para sistemas Windows
 
 - **Control de versiones**: Git y GitHub, utilizados para el seguimiento
   de cambios, organizacion del proyecto y publicacion del repositorio.
@@ -43,7 +43,7 @@ dos adaptadores de red por maquina virtual:
 Esta separacion permite simular un escenario real de red sin exponer los
 servicios internos al exterior.
 
-## Nodos del Laboratorio
+## Nodos
 
 - **Srv-Linux-Sistemas**  
   Servidor Linux sin entorno grafico, optimizado para bajo consumo de
