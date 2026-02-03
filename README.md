@@ -43,7 +43,7 @@ dos adaptadores de red por maquina virtual:
 Esta separacion permite simular un escenario real de red sin exponer los
 servicios internos al exterior.
 
-## Nodos del Laboratorio
+## Nodos
 
 - **Srv-Linux-Sistemas**  
   Servidor Linux sin entorno grafico, optimizado para bajo consumo de
