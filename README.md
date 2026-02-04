@@ -86,8 +86,8 @@ Para poder realizar la practica se necesito de scripts extras para configuracion
 
 ## Evidencias
 
-La documentacion tecnica del laboratorio, incluyendo la tabla de
-direccionamiento IP, capturas de pruebas de conectividad y snapshots del
+La documentacion tecnica de la tarea, incluyendo la tabla de
+direccionamiento IP, diagrama de topologia de red, capturas de pruebas de conectividad y snapshots del
 estado base del entorno, se encuentra disponible en la carpeta `/docs`.
 
 ## Conclusion
